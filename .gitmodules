@@ -1,0 +1,4 @@
+[submodule ".output"]
+	path = .output
+	url = git@github.com:m4xine/m4xine.github.io.git
+	branch = main
